@@ -1,5 +1,9 @@
 h1 {
+<<<<<<< HEAD
   text-align: right;
+=======
+  text-align: left;
+>>>>>>> asmi
   text-decoration: underline;
   text-decoration: italic;
 }
@@ -9,7 +13,11 @@ h1 {
   gap: 5px;
   grid-template-columns: auto auto auto auto;
   width: 300px;
+<<<<<<< HEAD
   height: 304px;
+=======
+  height: 305px;
+>>>>>>> asmi
 }
 .button {
   background-color: #505151;
