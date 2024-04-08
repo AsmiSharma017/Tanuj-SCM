@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* importing two Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
@@ -8,6 +9,28 @@ body{
 *{
     margin: 0;
     padding: 0;
+=======
+h1 {
+<<<<<<< HEAD
+  text-align: right;
+=======
+  text-align: left;
+>>>>>>> asmi
+  text-decoration: underline;
+  text-decoration: italic;
+}
+
+.row {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto auto auto auto;
+  width: 300px;
+<<<<<<< HEAD
+  height: 304px;
+=======
+  height: 305px;
+>>>>>>> asmi
+>>>>>>> 4729e5d41aaf26e0cb38ebc8bf14e518bb0323b0
 }
 
 nav{
@@ -86,6 +109,7 @@ nav ul{
     align-items: center;
     border-radius: 34px;
 }
+<<<<<<< HEAD
 
 .songItem img{
     width: 43px;
@@ -112,3 +136,13 @@ nav ul{
     transition: opacity 0.4s ease-in;
 }
 
+=======
+input {
+  padding-bottom: 185px;
+  font-size: 40px;
+  width: 215px;
+  color: white;
+  background-color: #22272c;
+  border: 0px solid;
+}
+>>>>>>> 4729e5d41aaf26e0cb38ebc8bf14e518bb0323b0
